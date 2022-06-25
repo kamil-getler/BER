@@ -1,0 +1,35 @@
+
+Fri Jun 24 10:23:17 2022 :  Start programu 
+Fri Jun 24 10:23:17 2022 :  Udalo sie pomyslnie otworzyc pliki :) 1) 100BAJ.txt 2) 100BAJT.txt
+Fri Jun 24 10:23:17 2022 :  Rozpoczeto obliczanie roznicy 
+Fri Jun 24 10:23:17 2022 :  Obliczanie zakonczone 
+Fri Jun 24 10:23:17 2022 :  Ilosc porownanych bitow: 0; Ilosc roznych bitow: 0; BER: 0.000000%; Czas obliczen: 0 ms
+Fri Jun 24 10:23:17 2022 :  Plik 100BAJ.txt zamkniety 
+Fri Jun 24 10:23:17 2022 :  Plik 100BAJT.txt zamkniety 
+Fri Jun 24 10:23:17 2022 :  Stop programu 
+Fri Jun 24 10:24:25 2022 :  Start programu 
+Fri Jun 24 10:24:25 2022 :  Blad ! Zla liczba argumentow ! (4) - zalecane: 2.
+Fri Jun 24 10:24:38 2022 :  Start programu 
+Fri Jun 24 10:24:38 2022 :  Udalo sie pomyslnie otworzyc pliki :) 1) 100test2.txt 2) 100test22.txt
+Fri Jun 24 10:24:38 2022 :  Rozpoczeto obliczanie roznicy 
+Fri Jun 24 10:24:38 2022 :  Obliczanie zakonczone 
+Fri Jun 24 10:24:38 2022 :  Ilosc porownanych bitow: 0; Ilosc roznych bitow: 0; BER: 0.000000%; Czas obliczen: 0 ms
+Fri Jun 24 10:24:38 2022 :  Plik 100test2.txt zamkniety 
+Fri Jun 24 10:24:38 2022 :  Plik 100test22.txt zamkniety 
+Fri Jun 24 10:24:38 2022 :  Stop programu 
+Fri Jun 24 10:26:35 2022 :  Start programu 
+Fri Jun 24 10:26:35 2022 :  Udalo sie pomyslnie otworzyc pliki :) 1) 100test2.txt 2) 100test22.txt
+Fri Jun 24 10:26:35 2022 :  Rozpoczeto obliczanie roznicy 
+Fri Jun 24 10:26:35 2022 :  Obliczanie zakonczone 
+Fri Jun 24 10:26:35 2022 :  Ilosc porownanych bitow: 8; Ilosc roznych bitow: 1; BER: 0.095420%; Czas obliczen: 0 ms
+Fri Jun 24 10:26:35 2022 :  Plik 100test2.txt zamkniety 
+Fri Jun 24 10:26:35 2022 :  Plik 100test22.txt zamkniety 
+Fri Jun 24 10:26:35 2022 :  Stop programu 
+Fri Jun 24 10:27:21 2022 :  Start programu 
+Fri Jun 24 10:27:22 2022 :  Udalo sie pomyslnie otworzyc pliki :) 1) 400BAJ.txt 2) 400BAJT.txt
+Fri Jun 24 10:27:22 2022 :  Rozpoczeto obliczanie roznicy 
+Fri Jun 24 10:28:50 2022 :  Obliczanie zakonczone 
+Fri Jun 24 10:28:50 2022 :  Ilosc porownanych bitow: 24; Ilosc roznych bitow: 9; BER: 0.000000%; Czas obliczen: 88186 ms
+Fri Jun 24 10:28:50 2022 :  Plik 400BAJ.txt zamkniety 
+Fri Jun 24 10:28:50 2022 :  Plik 400BAJT.txt zamkniety 
+Fri Jun 24 10:28:50 2022 :  Stop programu 
