@@ -1,0 +1,3 @@
+
+Fri Jun 24 11:01:22 2022 :  Start programu 
+Fri Jun 24 11:01:22 2022 :  Blad ! Zla liczba argumentow ! (0) - zalecane: 2.
